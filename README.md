@@ -60,7 +60,9 @@ R =
 ```
 
 ### Graphical Representation
-Write your answer here
+
+![RL ](https://github.com/NivethaKumar30/mdp-representation/assets/119559844/82c0d767-6a3d-406b-b31a-d6c013eff33b)
+
 
 ## PYTHON REPRESENTATION:
 
